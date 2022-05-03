@@ -1,0 +1,25 @@
+{
+  "name": "zuqiuxunlian",
+  "version": "1.0.0",
+  "description": "zuqiuxunlian website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuqiuxunlian/website.git"
+  },
+  "keywords": [
+    "football"
+  ],
+  "author": "Jump Ten Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuqiuxunlian/website/issues"
+  },
+  "homepage": "https://github.com/zuqiuxunlian/website#readme"
+}
