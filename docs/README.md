@@ -4,7 +4,7 @@ heroImage: /logo.png
 heroText: 一起踢足球训练营
 tagline: 非营利的足球团队训练，享受训练的乐趣
 actionText: 快速加入 →
-actionLink: /zh/guide/
+actionLink: /get-started/
 features:
   - title: 要求简单
     details: 准备一双专业球鞋，穿上你最爱的舒适的球衣，即可加入我们的训练。
