@@ -1,5 +1,13 @@
 module.exports = {
   base: "/",
+  head: [["meta", { name: "theme-color", content: "#3eaf7c" }]],
+  plugins: [
+    "@vuepress/pwa",
+    {
+      serviceWorker: true,
+      updatePopup: true,
+    },
+  ],
   locales: {
     "/": {
       lang: "zh-CN",
@@ -28,7 +36,7 @@ module.exports = {
             link: "/wechat-official-accounts",
           },
           { text: "B站", link: "https://space.bilibili.com/388955673" },
-          { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
+          // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
         ],
       },
       "/en/": {
