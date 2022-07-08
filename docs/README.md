@@ -6,7 +6,7 @@ tagline: 非营利的足球团队训练营，享受训练的乐趣
 actionText: 快速加入 →
 actionLink: /get-started/
 features:
-  - title: 要求简单
+  - title: 要求简单1
     details: 准备一双专业球鞋，穿上你最爱的舒适的球衣，即可加入我们的训练。
   - title: 专业服务
     details: 组织有序的训练。提供标志碟，绳梯等训练器材。定期场次会邀请专业教练进行现场指导。
