@@ -36,7 +36,7 @@ The organizer should determine the training venue, training time and training co
 - An additional 20 yuan service fee will be charged for non-member training, and the first time is free
 - Sign up for Wechat Group Solitaire: Consult awong1900 (Captain Wang Wechat)
 
-### Shenzhen Leli Training Camp
+### Shenzhen Leli Training Camp （Suspension）
 
 - Xili Leli Rooftop Football Stadium (Rooftop of Building C, Jingu Pioneer Park, near Longjing Subway Station) Leli Rooftop Football Stadium (Longjing Store)
 - Choose TF football boots

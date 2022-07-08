@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 heroText: 一起踢足球训练营
-tagline: 非营利的足球团队训练，享受训练的乐趣
+tagline: 非营利的足球团队训练营，享受训练的乐趣
 actionText: 快速加入 →
 actionLink: /get-started/
 features:
