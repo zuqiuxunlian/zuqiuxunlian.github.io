@@ -1,6 +1,6 @@
-# This workflow will do build and test. Deploy to dev
+# This workflow will do build and deploy to oss.
 
-name: main
+name: deploy
 on:
   push:
     branches:
