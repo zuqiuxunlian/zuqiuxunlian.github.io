@@ -18,16 +18,16 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 14
+      - uses: manyuanrong/setup-ossutil@v2.0
+        with:
+          endpoint: oss-cn-shenzhen.aliyuncs.com
+          access-key-id: ${{ secrets.ACCESS_KEY_ID }}
+          access-key-secret: ${{ secrets.ACCESS_KEY_SECRET }}
       - name: build docs
         run: |
           npm ci
           npm run docs:build
           ls docs/.vuepress/dist
-      - name: upload files to OSS
-        uses: fangbinwei/aliyun-oss-website-action@v1.3.0
-        with:
-          accessKeyId: ${{ secrets.ACCESS_KEY_ID }}
-          accessKeySecret: ${{ secrets.ACCESS_KEY_SECRET }}
-          bucket: yiqiti-website
-          endpoint: oss-cn-shenzhen.aliyuncs.com
-          folder: docs/.vuepress/dist
+      - name: upload to OSS
+        run: |
+          ossutil cp -rf docs/.vuepress/dist oss://yiqiti-website/
