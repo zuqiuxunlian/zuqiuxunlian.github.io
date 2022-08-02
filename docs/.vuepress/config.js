@@ -35,6 +35,7 @@ module.exports = {
             text: "公众号",
             link: "/wechat-official-accounts",
           },
+          { text: "IORI计时器", link: "https://zuqiuxunlian.com/iori" },
           { text: "B站", link: "https://space.bilibili.com/388955673" },
           // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
         ],
