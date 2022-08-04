@@ -2,11 +2,20 @@ module.exports = {
   base: "/",
   head: [["meta", { name: "theme-color", content: "#3eaf7c" }]],
   plugins: [
-    "@vuepress/pwa",
-    {
-      serviceWorker: true,
-      updatePopup: true,
-    },
+    [
+      "@vuepress/pwa",
+      {
+        serviceWorker: true,
+        updatePopup: true,
+      },
+    ],
+    [
+      "vuepress-plugin-baidu-tongji-analytics",
+      {
+        key: "2a36203f824f2dff471775364d62fc7d",
+        dev: true,
+      },
+    ],
   ],
   locales: {
     "/": {
