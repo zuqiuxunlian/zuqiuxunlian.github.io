@@ -54,7 +54,10 @@ module.exports = {
         label: "English",
         ariaLabel: "Languages",
         lastUpdated: "Last Updated",
-        nav: [{ text: "Ins", link: "https://www.instagram.com/yiqitifc/" }],
+        nav: [
+          { text: "IORI Timer", link: "https://zuqiuxunlian.com/iori/en" },
+          { text: "Ins", link: "https://www.instagram.com/yiqitifc/" },
+        ],
       },
     },
   },
