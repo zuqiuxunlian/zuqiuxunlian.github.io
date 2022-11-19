@@ -40,12 +40,17 @@ module.exports = {
         lastUpdated: "最后更新",
         nav: [
           { text: "加入我们", link: "/get-started" },
+          { text: "招聘", link: "/hire" },
           {
             text: "公众号",
             link: "/wechat-official-accounts",
           },
           { text: "IORI计时器", link: "https://zuqiuxunlian.com/iori" },
           { text: "B站", link: "https://space.bilibili.com/388955673" },
+          {
+            text: "抖音",
+            link: "https://www.douyin.com/user/MS4wLjABAAAArUwEHeE_GuHNPJ3yyMRLYizeSS-8cGoaPWBI97E9L1w",
+          },
           // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
         ],
       },
