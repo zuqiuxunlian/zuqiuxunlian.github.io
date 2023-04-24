@@ -40,8 +40,7 @@ module.exports = {
         lastUpdated: "最后更新",
         nav: [
           { text: "加入训练", link: "/get-started" },
-          { text: "招聘", link: "/hire" },
-
+          { text: "学习成长", link: "https://learn.zuqiuxunlian.com/index.html" },
           {
             text: "社交账号",
             ariaLabel: "",
@@ -61,6 +60,7 @@ module.exports = {
               },
             ],
           },
+          { text: "招聘", link: "/hire" },
           {
             text: "其他",
             ariaLabel: "",
@@ -79,6 +79,8 @@ module.exports = {
         ariaLabel: "Languages",
         lastUpdated: "Last Updated",
         nav: [
+          { text: "Join", link: "/get-started" },
+          { text: "Learn", link: "https://learn.zuqiuxunlian.com/index.html" },
           {
             text: "IORI Timer",
             link: "https://zuqiuxunlian.github.io/iori/en",
