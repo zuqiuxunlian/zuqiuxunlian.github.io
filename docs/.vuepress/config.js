@@ -65,11 +65,11 @@ module.exports = {
             ariaLabel: "",
             items: [
               { text: "急救信息卡", link: "/medical-emergency-action-plan" },
+              { text: "招聘", link: "/hire" },
             ],
           },
           { text: "IORI计时器", link: "https://zuqiuxunlian.com/iori" },
           // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
-          { text: "招聘", link: "/hire" },
         ],
       },
       "/en/": {
