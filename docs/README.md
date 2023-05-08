@@ -14,3 +14,9 @@ features:
     details: 所有水平的朋友都获得尊重，我们只与之前的自己对比。轻松的训练氛围，无社交压力。
 footer: © 2015-2023 一起踢·足球训练营
 ---
+<div align=center>
+<!-- <img src="./images/iori-1.jpg" width="498"/>
+<img src="./images/iori-2.jpg" width="454"/> -->
+<img src="./images/wellcome.jpeg" width="960"/>
+<img src="./images/nanshancup.jpeg" width="960"/>
+</div>
