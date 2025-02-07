@@ -14,10 +14,12 @@ features:
     details: Friends of all levels are respected and we are only compared to our previous selves. Relaxed training atmosphere without social pressure.
 footer: © 2015-2023 Yiqiti Football Camp
 ---
+
 <div align=center>
 <!-- <img src="./images/iori-1.jpg" width="498"/>
 <img src="./images/iori-2.jpg" width="454"/> -->
-<img src="./images/wellcome.jpeg" width="960"/>
+<img src="./images/training.jpg" width="960"/>
+<img src="./images/dabaolu.jpg" width="960"/>
 <img src="./images/nanshancup.jpeg" width="960"/>
 <img src="./images/champion.jpeg" width="960"/>
 </div>

@@ -46,7 +46,7 @@ module.exports = {
             ariaLabel: "",
             items: [
               {
-                text: "一起踢足球训练营｜公众号",
+                text: "一起踢足球训练营｜视频号",
                 link: "/wechat-official-accounts",
               },
               {
