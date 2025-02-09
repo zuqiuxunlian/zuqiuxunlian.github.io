@@ -65,6 +65,7 @@ module.exports = {
             ariaLabel: "",
             items: [
               { text: "急救信息卡", link: "/medical-emergency-action-plan" },
+              { text: "财报", link: "/finance" },
               { text: "招聘", link: "/hire" },
             ],
           },
