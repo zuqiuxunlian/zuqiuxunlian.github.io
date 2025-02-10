@@ -40,26 +40,28 @@ module.exports = {
         lastUpdated: "最后更新",
         nav: [
           { text: "加入训练", link: "/get-started" },
-          { text: "训练分析", link: "https://learn.zuqiuxunlian.com" },
+          { text: "团队介绍", link: "/manage-team" },
+          { text: "会员介绍", link: "/members" },
           {
             text: "社交账号",
             ariaLabel: "",
             items: [
               {
-                text: "一起踢足球训练营｜视频号",
+                text: "视频号",
                 link: "/wechat-official-accounts",
               },
               {
-                text: "一起踢足球训练营｜抖音",
+                text: "抖音",
                 link: "https://www.douyin.com/user/MS4wLjABAAAArUwEHeE_GuHNPJ3yyMRLYizeSS-8cGoaPWBI97E9L1w",
               },
 
               {
-                text: "踢球的腾｜B站",
-                link: "https://space.bilibili.com/388955673",
+                text: "Github",
+                link: "https://github.com/zuqiuxunlian",
               },
             ],
           },
+          { text: "训练分析", link: "https://learn.zuqiuxunlian.com" },
           {
             text: "其他",
             ariaLabel: "",
