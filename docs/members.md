@@ -7,7 +7,7 @@
 | ![001](./images/members/001.jpg) | [王腾｜ Ten Wong](https://space.bilibili.com/388955673) | 12   |
 | 002                              | 马啸龙 Xiaolong Ma                                      | 2    |
 | 006                              | 陈伟航 Weihang Chen                                     | 6    |
-| ![037](./images/members/036.jpg) | 纪旭佳 Xujia Ji                                         | 36   |
+| ![037](./images/members/037.jpg) | 纪旭佳 Xujia Ji                                         | 36   |
 | 047                              | 张铭 Travis                                             | 23   |
 | 062                              | 时仲毅 Shatty                                           | 4    |
 | 125                              | 陈洋 Young                                              | 30   |
