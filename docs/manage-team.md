@@ -7,7 +7,7 @@
 ### 王腾
 
 <div style="width: 200px; text-align: center;">
-  <img src="./images/coachs/Ten.jpg?size=150" alt="Coach 1" style="border-radius: 50%;">
+  <img src="./images/coachs/Ten.jpg?size=150" alt="" style="border-radius: 50%;">
   <p><strong>姓名：</strong> 王腾 </p>
   <p><strong>职位：</strong> 经理｜Manager </p>
   <p><strong>工作经历：</strong></p>
@@ -28,7 +28,7 @@
 ### Juca
 
 <div style="width: 200px; text-align: center;">
-  <img src="./images/coachs/Juca.jpg?size=150" alt="Coach 1" style="border-radius: 50%;">
+  <img src="./images/coachs/Juca.jpg?size=150" alt="" style="border-radius: 50%;">
   <p><strong>姓名：</strong> Juca </p>
   <p><strong>职位：</strong> 主教练｜Head Coach</p>
   <p><strong>工作经历：</strong></p>
@@ -43,7 +43,7 @@
 ### Maciel
 
 <div style="width: 200px; text-align: center;">
-  <img src="./images/coachs/Maciel.jpg?size=150" alt="Coach 1" style="border-radius: 50%;">
+  <img src="./images/coachs/Maciel.jpg?size=150" alt="" style="border-radius: 50%;">
   <p><strong>姓名：</strong> Maciel</p>
   <p><strong>职位：</strong> 教练｜Coach</p>
   <p><strong>工作经历：</strong></p>
@@ -67,6 +67,6 @@
 - Gilsinho，2024.3 - 2025.1
 - Samuel，2023.5 - 2023.12
 - Lucas，门将教练
-- 申成男
-- 杨斌，2022 年南山杯教练
+- [申成男](https://v.douyin.com/iPkrdUG9/)
+- [杨斌](https://v.douyin.com/iPkrprKA/)，2022 年南山杯教练
 - Bau
