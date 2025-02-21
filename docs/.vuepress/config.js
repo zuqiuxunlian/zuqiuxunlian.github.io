@@ -31,7 +31,7 @@ module.exports = {
   },
   themeConfig: {
     logo: "/logo.png",
-    sidebar: "auto",
+    // sidebar: "auto",
 
     locales: {
       "/": {
@@ -74,6 +74,14 @@ module.exports = {
           { text: "IORI计时器", link: "https://zuqiuxunlian.com/iori" },
           // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
         ],
+        sidebar: [
+          ["/get-started", "加入训练"],
+          "/manage-team",
+          "/members",
+          "/finance",
+          ["/hire", "招聘"],
+          ["/medical-emergency-action-plan", "急救"],
+        ],
       },
       "/en/": {
         selectText: "Languages",
@@ -81,7 +89,7 @@ module.exports = {
         ariaLabel: "Languages",
         lastUpdated: "Last Updated",
         nav: [
-          { text: "Join", link: "/get-started" },
+          { text: "Join", link: "/en/get-started" },
           { text: "Analysis", link: "https://learn.zuqiuxunlian.com/en/" },
           { text: "Ins", link: "https://www.instagram.com/yiqitifc/" },
           {

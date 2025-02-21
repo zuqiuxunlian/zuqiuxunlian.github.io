@@ -12,7 +12,7 @@ features:
     details: well-organized training. Provide training equipment such as logo plates, rope ladders, etc. Regular sessions will invite experts to give on-site guidance.
   - title: Enjoy Football
     details: Friends of all levels are respected and we are only compared to our previous selves. Relaxed training atmosphere without social pressure.
-footer: © 2015-2023 Yiqiti Football Camp
+footer: © 2015-2025 Yiqiti Football Camp
 ---
 
 <div align=center>
