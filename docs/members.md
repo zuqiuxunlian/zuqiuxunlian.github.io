@@ -18,23 +18,30 @@
 | ![159](./images/members/159.jpg) | 欧阳仁勇 Yong                                           | 19   |
 | ![160](./images/members/160.jpg) | 崔威杰 Weijie Cui                                       | 41   |
 | 168                              | 丁晨阳 Chenyang Ding                                    | 31   |
-| 171                              | 谭志文 Zhiwen Tan                                       |
+| 171                              | 谭志文 Zhiwen Tan                                       |      |
 | ![172](./images/members/172.jpg) | 朱文涛 Tao                                              | 21   |
 | 173                              | 刘昊朋 Haopeng Liu                                      | 35   |
-| ![176](./images/members/176.jpg) | 叶凯 Kai                                                |
+| ![176](./images/members/176.jpg) | 叶凯 Kai                                                |      |
 | 183                              | 罗植源 Charlie                                          | 37   |
 | ![185](./images/members/185.jpg) | 骆约达 Luo                                              | 17   |
-| 188                              | 李奕灏 Marcus                                           |
 | 189                              | 卢俊友 LJY                                              | 34   |
-| 192                              | 林俊程 Manito                                           |
-| 193                              | 孙彬轩 Sun                                              |
+| 192                              | 林俊程 Manito                                           |      |
+| 193                              | 孙彬轩 Sun                                              |      |
 | 195                              | 李德亮 Michael                                          | 32   |
-| 196                              | 张宇哲                                                  |
-| 197                              | 许大卫 David                                            |
+| 196                              | 张宇哲                                                  |      |
+| 197                              | 许大卫 David                                            |      |
 | ![199](./images/members/199.jpg) | 潘捷 Cleverly                                           | 40   |
-| 200                              | 李广宇 Lee                                              |
-| 201                              | 仇为俊                                                  |
-| 202                              | 罗文江 Lionel                                           |
-| 203                              | 梁航                                                    |
-| 204                              | 龚劲松 Jason                                            |
-| 205                              | 李耕                                                    |
+| 200                              | 李广宇 Lee                                              |      |
+| 201                              | 仇为俊                                                  |      |
+| 202                              | 罗文江 Lionel                                           |      |
+| 203                              | 梁航                                                    |      |
+| 204                              | 龚劲松 Jason                                            |      |
+| 205                              | 李耕                                                    |      |
+| 206                              | 詹晨晖                                                  |      |
+| 207                              | 张峰旗                                                  |      |
+| 208                              | 罗子涵                                                  |      |
+| 209                              | 吴崇振                                                  |      |
+| 210                              | 叶亮                                                    |      |
+| 211                              | 夏宁                                                    |      |
+| 212                              | 张瀚志                                                  |      |
+| 213                              | 杨锐聪                                                  |      |
