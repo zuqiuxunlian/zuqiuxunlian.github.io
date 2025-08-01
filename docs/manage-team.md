@@ -13,7 +13,7 @@
   <p><strong>工作经历：</strong></p>
   <ul style="text-align: left;">
     <li>2015-至今: 当前团队，队长、教练、经理</li>
-    <li>2025: 法兰克福足球俱乐部“现代足球个人及团队技战术技工训练”培训证书 Level II</li>
+    <li>2025: 法兰克福足球俱乐部“现代足球个人及团队技战术进阶训练”培训证书 Level II</li>
     <li>2024: 法兰克福足球俱乐部“现代基层足球训练”培训证书 Level I</li>
     <li>2022: 英足总“Introduction to Coaching Football”培训证书</li>
     <li>2021: 深圳足协E级教练证</li>
