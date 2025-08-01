@@ -10,18 +10,15 @@
 | ![037](./images/members/037.jpg) | 纪旭佳 Xujia Ji                                         | 36   |
 | 047                              | 张铭 Travis                                             | 23   |
 | ![133](./images/members/133.jpg) | 杨博凯                                                  | 15   |
-| 138                              | 植浩 Hao Zhi                                            | 29   |
 | 144                              | 古启鑫 Qixin Gu                                         |      |
 | ![160](./images/members/160.jpg) | 崔威杰 Weijie Cui                                       | 41   |
 | 168                              | 丁晨阳 Chenyang Ding                                    | 31   |
-| 171                              | 谭志文 Zhiwen Tan                                       |      |
 | ![172](./images/members/172.jpg) | 朱文涛 Tao                                              | 21   |
 | ![176](./images/members/176.jpg) | 叶凯 Kai                                                |      |
 | 183                              | 罗植源 Charlie                                          | 37   |
 | ![185](./images/members/185.jpg) | 骆约达 Luo                                              | 17   |
 | 189                              | 卢俊友 LJY                                              | 34   |
 | 194                              | 刘海涛 Brain                                            | 27   |
-| 200                              | 李广宇 Lee                                              |      |
 | 201                              | 仇为俊                                                  | 18   |
 | 202                              | 罗文江 Lionel                                           | 13   |
 | 203                              | 梁航                                                    | 26   |
@@ -42,3 +39,6 @@
 | 220                              | 李鑫明                                                  |      |
 | 221                              | 张振昌 Jack                                             |      |
 | 222                              | 钟创伟 Zhong                                            |      |
+| 223                              | 老曾                                                    |      |
+| 224                              | 李逸君                                                  |      |
+| 225                              | 黄超殊                                                  |      |
