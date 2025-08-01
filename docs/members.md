@@ -29,16 +29,16 @@
 | ![208](./images/members/208.jpg) | 罗子涵                                                  | 45   |
 | 209                              | 吴崇振                                                  |      |
 | 210                              | 叶亮                                                    |      |
-| 211                              | 夏宁                                                    |      |
+| ![211](./images/members/211.jpg) | 夏宁                                                    |      |
 | 212                              | 张瀚志                                                  |      |
 | ![213](./images/members/213.jpg) | 杨锐聪 Ezio                                             | 24   |
 | 214                              | 钟智超 Patrick                                          |      |
 | ![215](./images/members/215.jpg) | 张杜光 DG                                               | 50   |
-| 217                              | 欧阳正                                                  |      |
+| ![217](./images/members/217.jpg) | 欧阳正                                                  |      |
 | 218                              | 詹满清 Samuel                                           | 92   |
 | 220                              | 李鑫明                                                  |      |
-| 221                              | 张振昌 Jack                                             |      |
-| 222                              | 钟创伟 Zhong                                            |      |
+| ![221](./images/members/221.jpg) | 张振昌 Jack                                             |      |
+| ![222](./images/members/222.jpg) | 钟创伟 Zhong                                            |      |
 | 223                              | 老曾                                                    |      |
 | 224                              | 李逸君                                                  |      |
 | 225                              | 黄超殊                                                  |      |
