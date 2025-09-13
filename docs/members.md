@@ -14,7 +14,6 @@
 | ![160](./images/members/160.jpg) | 崔威杰 Weijie Cui                                       | 41   |
 | 168                              | 丁晨阳 Chenyang Ding                                    | 31   |
 | ![172](./images/members/172.jpg) | 朱文涛 Tao                                              | 21   |
-| ![176](./images/members/176.jpg) | 叶凯 Kai                                                |      |
 | 183                              | 罗植源 Charlie                                          | 37   |
 | ![185](./images/members/185.jpg) | 骆约达 Luo                                              | 17   |
 | 189                              | 卢俊友 LJY                                              | 34   |
@@ -39,6 +38,8 @@
 | 220                              | 李鑫明                                                  |      |
 | ![221](./images/members/221.jpg) | 张振昌 Jack                                             |      |
 | ![222](./images/members/222.jpg) | 钟创伟 Zhong                                            |      |
-| 223                              | 老曾                                                    |      |
+| 223                              | 曾凡俊                                                  | 54   |
 | 224                              | 李逸君                                                  |      |
-| 225                              | 黄超殊                                                  |      |
+| 225                              | 黄超殊                                                  | 20   |
+| 226                              | 蔡荣锋                                                  |      |
+| 227                              | 钟友槐                                                  |      |
