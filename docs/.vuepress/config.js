@@ -71,7 +71,7 @@ module.exports = {
               { text: "招聘", link: "/hire" },
             ],
           },
-          { text: "IORI计时器", link: "https://zuqiuxunlian.com/iori" },
+          { text: "IORI计时器", link: "https://iori.zuqiuxunlian.com/cn/" },
           // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
         ],
         sidebar: [
@@ -90,11 +90,11 @@ module.exports = {
         lastUpdated: "Last Updated",
         nav: [
           { text: "Join", link: "/en/get-started" },
-          { text: "Analysis", link: "https://learn.zuqiuxunlian.com/en/" },
-          { text: "Ins", link: "https://www.instagram.com/yiqitifc/" },
+          { text: "Analysis", link: "https://learn.zuqiuxunlian.com" },
+          // { text: "Ins", link: "https://www.instagram.com/yiqitifc/" },
           {
             text: "IORI Timer",
-            link: "https://zuqiuxunlian.github.io/iori/en",
+            link: "https://ioritimer.com",
           },
         ],
       },
