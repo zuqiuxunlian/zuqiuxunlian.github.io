@@ -25,7 +25,7 @@ module.exports = {
     },
     "/en/": {
       lang: "en-US",
-      title: "Yiqiti Football Camp",
+      title: "YQT FC",
       description: "Non-profit football team training, have fun training.",
     },
   },

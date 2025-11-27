@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
-heroText: Yiqiti Football Camp
+heroText: YQT Football Camp
 tagline: Non-profit football team training, have fun training
 actionText: Get Started
 actionLink: /en/get-started/
