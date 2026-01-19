@@ -19,7 +19,7 @@ footer: © 2015-2025 Yiqiti Football Camp
 <!-- <img src="./images/iori-1.jpg" width="498"/>
 <img src="./images/iori-2.jpg" width="454"/> -->
 <img src="./images/training.jpg" width="960"/>
-<img src="./images/dabaolu.jpg" width="960"/>
-<img src="./images/nanshancup.jpeg" width="960"/>
+<!-- <img src="./images/dabaolu.jpg" width="960"/> -->
+<!-- <img src="./images/nanshancup.jpeg" width="960"/> -->
 <img src="./images/champion.jpeg" width="960"/>
 </div>

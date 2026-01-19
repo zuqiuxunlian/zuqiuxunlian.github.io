@@ -18,10 +18,10 @@ footer: © 2015-2025 一起踢·足球训练营
 <div align=center>
 <!-- <img src="./images/iori-1.jpg" width="498"/>
 <img src="./images/iori-2.jpg" width="454"/> -->
-<img src="./images/training.jpg" width="960"/>
+<!-- <img src="./images/training.jpg" width="960"/>
 <img src="./images/dabaolu.jpg" width="960"/>
 <img src="./images/nanshancup.jpeg" width="960"/>
-<img src="./images/champion.jpeg" width="960"/>
+<img src="./images/champion.jpeg" width="960"/> -->
 </div>
 
 [粤 ICP 备 19005094 号-1](https://beian.miit.gov.cn/#/Integrated/recordQuery)
