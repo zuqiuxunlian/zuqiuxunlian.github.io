@@ -69,16 +69,16 @@
 </div>
 </div>
 
-### Ryan
+### Sidine
 
 <div style="width: 200px; text-align: center;">
-  <img src="./images/coachs/Ryan.jpg?size=150" alt="" style="border-radius: 50%;">
-  <p><strong>姓名：</strong> Ryan</p>
+  <img src="./images/coachs/Sidine.jpg?size=150" alt="" style="border-radius: 50%;">
+  <p><strong>姓名：</strong> Sidine</p>
   <p><strong>职位：</strong> 教练｜Coach</p>
   <p><strong>工作经历：</strong></p>
   <ul style="text-align: left;">
     <li>2025-至今: 当前团队，教练｜Coach</li>
-    <li>2024: FC116 BRASIL，Coach</li>
+    <li>2025: FC116 BRASIL，Coach</li>
   </ul>
 </div>
 </div>
@@ -91,6 +91,7 @@
 
 ## 历任教练
 
+- Ryan，2025.4 - 2026.1，巴西
 - Gilsinho，2024.3 - 2025.1，巴西
 - Samuel，2023.5 - 2023.12，巴西
 - Lucas，门将教练，巴西
