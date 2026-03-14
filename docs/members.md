@@ -9,7 +9,7 @@
 | 006                              | 陈伟航 Weihang Chen                                     | 6    |
 | ![037](./images/members/037.jpg) | 纪旭佳 Xujia Ji                                         | 36   |
 | ![133](./images/members/133.jpg) | 杨博凯                                                  | 15   |
-| ![138](./images/members/138.jpg) | 植浩                                                    | 29   |
+| 138                              | 植浩                                                    | 29   |
 | 144                              | 古启鑫 Qixin Gu                                         |      |
 | ![160](./images/members/160.jpg) | 崔威杰 Weijie Cui                                       | 41   |
 | 168                              | 丁晨阳 Chenyang Ding                                    | 31   |
