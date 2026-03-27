@@ -54,7 +54,10 @@ module.exports = {
                 text: "抖音",
                 link: "https://www.douyin.com/user/MS4wLjABAAAArUwEHeE_GuHNPJ3yyMRLYizeSS-8cGoaPWBI97E9L1w",
               },
-
+              {
+                text: "小红书",
+                link: "https://xhslink.com/m/4lYqPoT72Wj",
+              },
               {
                 text: "Github",
                 link: "https://github.com/zuqiuxunlian",
@@ -71,7 +74,7 @@ module.exports = {
               { text: "招聘", link: "/hire" },
             ],
           },
-          { text: "IORI计时器", link: "https://iori.zuqiuxunlian.com/cn/" },
+          { text: "IORI计时器", link: "https://iori.zuqiuxunlian.com/" },
           // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
         ],
         sidebar: [

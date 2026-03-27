@@ -24,7 +24,7 @@
 | ![213](./images/members/213.jpg) | 杨锐聪 Ezio                                             | 24   |
 | 214                              | 钟智超 Patrick                                          |      |
 | ![215](./images/members/215.jpg) | 张杜光 DG                                               | 50   |
-| ![217](./images/members/217.jpg) | 欧阳正                                                  |      |
+| ![217](./images/members/217.jpg) | [欧阳正](https://xhslink.com/m/4lYqPoT72Wj)             |      |
 | 218                              | 詹满清 Samuel                                           | 92   |
 | ![221](./images/members/221.jpg) | 张振昌 Jack                                             |      |
 | ![222](./images/members/222.jpg) | 钟创伟 Zhong                                            |      |
