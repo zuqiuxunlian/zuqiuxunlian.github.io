@@ -75,7 +75,6 @@ module.exports = {
             ],
           },
           { text: "IORI计时器", link: "https://ioritimer.com.cn" },
-          // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
         ],
         sidebar: [
           ["/get-started", "加入训练"],
