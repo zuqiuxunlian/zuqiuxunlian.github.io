@@ -64,7 +64,7 @@ module.exports = {
               },
             ],
           },
-          { text: "训练分析", link: "https://learn.zuqiuxunlian.com" },
+          { text: "训练分析", link: "https://learn.yqtfc.com/index.html" },
           {
             text: "其他",
             ariaLabel: "",
@@ -74,7 +74,7 @@ module.exports = {
               { text: "招聘", link: "/hire" },
             ],
           },
-          { text: "IORI计时器", link: "https://iori.zuqiuxunlian.com/" },
+          { text: "IORI计时器", link: "https://ioritimer.com.cn" },
           // { text: "旧版本", link: "https://old.zuqiuxunlian.com" },
         ],
         sidebar: [
@@ -93,7 +93,7 @@ module.exports = {
         lastUpdated: "Last Updated",
         nav: [
           { text: "Join", link: "/en/get-started" },
-          { text: "Analysis", link: "https://learn.zuqiuxunlian.com" },
+          // { text: "Analysis", link: "https://learn.yqtfc.com/index.html" },
           // { text: "Ins", link: "https://www.instagram.com/yiqitifc/" },
           {
             text: "IORI Timer",
