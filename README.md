@@ -1,5 +1,5 @@
-一起踢足球训练的网站，宣传训练营的理念
-https://zuqiuxunlian.com
+一起踢足球训练的网站
+https://yqtfc.com
 
 ## 开始
 
