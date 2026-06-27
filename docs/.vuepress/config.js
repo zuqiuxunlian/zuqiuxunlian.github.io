@@ -40,6 +40,7 @@ module.exports = {
         lastUpdated: "最后更新",
         nav: [
           { text: "加入训练", link: "/get-started" },
+          { text: "赛程", link: "/schedule" },
           { text: "团队介绍", link: "/manage-team" },
           { text: "会员介绍", link: "/members" },
           {
@@ -78,6 +79,7 @@ module.exports = {
         ],
         sidebar: [
           ["/get-started", "加入训练"],
+          ["/schedule", "赛程"],
           "/manage-team",
           "/members",
           "/finance",
